@@ -69,26 +69,6 @@
       "userId": 1
     }
   ],
-  "activities": [
-    {
-      "name": "Harar la tierra",
-      "description": "Harar la tierra description",
-      "start_date": "2020-03-09",
-      "finish_date": "2020-03-27"
-    },
-    {
-      "name": "Harar la tierra",
-      "description": "Harar la tierra description",
-      "start_date": "2020-03-09",
-      "finish_date": "2020-03-27"
-    },
-    {
-      "name": "Harar la tierra",
-      "description": "Harar la tierra description",
-      "start_date": "2020-03-09",
-      "finish_date": "2020-03-27"
-    }
-  ],
   "orders": [
     {
       "id": 1,
